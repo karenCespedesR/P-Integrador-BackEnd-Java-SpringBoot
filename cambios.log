@@ -1,0 +1,2 @@
+[2022-08-18 17:02:08] [ INFO ] [OdontologoDaoH2:25] Registro un odontologo nuevoOdontologo:id=null, numero de Matricula=15686, nombre='Nicola, apellido='Tesla
+[2022-08-18 17:02:08] [ INFO ] [OdontologoDaoH2:45] El odontologo se registro correctamente:Odontologo:id=1, numero de Matricula=15686, nombre='Nicola, apellido='Tesla
